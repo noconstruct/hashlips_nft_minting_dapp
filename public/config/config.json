@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 3334,
   "WEI_COST": 75000000000000000,
   "DISPLAY_COST": 0.02,
-  "GAS_LIMIT": 685000,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/0xsharks",
   "SHOW_BACKGROUND": false
