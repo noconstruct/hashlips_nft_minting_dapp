@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xFc7Ffc25b680260570F7622c48982c0Ea5BD17f6",
-  "SCAN_LINK": "https://etherscan.io/address/0xfc7ffc25b680260570f7622c48982c0ea5bd17f6#code",
+  "CONTRACT_ADDRESS": "0x6a365ada15e0dd046ebf2f33b5aee5d7da5c1d4e",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x6a365ada15e0dd046ebf2f33b5aee5d7da5c1d4e",
   "NETWORK": {
-    "NAME": "Ethereum",
+    "NAME": "rinkby",
     "SYMBOL": "ETH",
-    "ID": 1
+    "ID": 3
   },
   "NFT_NAME": "0xSHARK",
   "SYMBOL": "sharksss",
